@@ -9,6 +9,5 @@ public class treadStudy implements Runnable {
 		for (int i = 0; i < 1000; i++) {
 			System.out.println(name+i);
 		}
-		System.out.println("as");
 	}
 }
